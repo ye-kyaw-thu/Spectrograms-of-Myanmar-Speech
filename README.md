@@ -3,6 +3,8 @@
 Spectrograms of Myanmar consonant and vowel audios that I recorded at University of Computer Studies Banmaw (UC Banmaw), Banmaw, Kachin State, Myanmar. For the 22 consonants and 12 vowels, I prepared audio files by recording 45 female and 37 male speakers, including native speakers as well as other national ethnic races such as Kachin, Shan, and Rakhine, using a MacBook Air built-in microphone. The spectrograms of the audio files were extracted using the Sound eXchange (SoX, Swiss
 Army knife of sound processing programs) command line utility. I used these spectrograms for the Transfer Learning experiments.  
 
+Please note recording was done inside a hall and containing some noises such as mouse click sound. 
+
 # Files and Folders   
 
 consonant/ (spectrograms of 22 classes of Myanmar consonant sounds)  
