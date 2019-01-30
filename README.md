@@ -67,7 +67,7 @@ Class 2 (ခ)
 <img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/consonant/2/2_1/2018-11-12-14:16:00.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
-Class 3 (ဂ)
+Class 3 (ဂ၊ ဃ)
 
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/consonant/3/3_1/2018-11-12-14:45:35.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
