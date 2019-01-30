@@ -108,43 +108,43 @@ Class 5 (အူ)
 Class 6 (အေ)
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/6/6_1/2018-11-13-20:01:29.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 Class 7 (အဲ)
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/7/7_2/2018-11-14-00:34:51.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 Class 8 (အော့)  
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/8/8_2/2018-11-14-00:36:14.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 Class 9 (အော်)
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/9/9_1/2018-11-13-20:34:36.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 Class 10 (အံ)
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/10/10_1/2018-11-14-00:21:06.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 Class 11 (အား)  
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/11/11_1/2018-11-14-00:40:10.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 Class 12 (အက်)
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/12/12_1/2018-11-13-20:23:53.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 # Acknowledgement
