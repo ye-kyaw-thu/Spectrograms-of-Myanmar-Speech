@@ -1,11 +1,11 @@
 # Transfer-Learning-Workshop
-Spectrograms of Myanmar consonant and vowel audio that I recorded at University of Computer Studies Banmaw.
-
-Uploading in progress ... 
+Spectrograms of Myanmar consonant and vowel audios that I recorded at University of Computer Studies Banmaw, Banmaw, Kachin State, Myanmar. I used these spectrograms for the Transfer Learning experiments.  
 
 # Acknowledgement
 
-Thanks ...
+Thanks to following students and teachers of University of Computer Studies Banmaw!  
+
+
 
 # Citing
 
