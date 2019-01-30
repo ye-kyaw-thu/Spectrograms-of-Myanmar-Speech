@@ -78,70 +78,70 @@ Class 3 (ဂ)
 Class 1 (အာ)
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/1/2018-11-13-19:54:57.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 Class 2 (အိ)  
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/2/2_2/2018-11-14-00:28:27.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 Class 3 (အီ)
 
 <p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/3/3_1/2018-11-13-19:56:53.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
-Class 1 (အု)
+Class 4 (အု)
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/4/4_1/2018-11-14-00:30:27.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
+</p>
+
+Class 5 (အူ)  
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/vowel/5/5_1/2018-11-13-19:59:57.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
+</p>
+
+Class 6 (အေ)
 
 <p align="center">
 <img src="" alt="Class-1" width="400x" height="256x" />
 </p>
 
-Class 2 (အူ)  
+Class 7 (အဲ)
 
 <p align="center">
 <img src="" alt="Class-1" width="400x" height="256x" />
 </p>
 
-Class 3 (အေ)
+Class 8 (အော့)  
 
 <p align="center">
 <img src="" alt="Class-1" width="400x" height="256x" />
 </p>
 
-Class 1 (အဲ)
+Class 9 (အော်)
 
 <p align="center">
 <img src="" alt="Class-1" width="400x" height="256x" />
 </p>
 
-Class 2 (အော့)  
+Class 10 (အံ)
 
 <p align="center">
 <img src="" alt="Class-1" width="400x" height="256x" />
 </p>
 
-Class 3 (အော်)
+Class 11 (အား)  
 
 <p align="center">
 <img src="" alt="Class-1" width="400x" height="256x" />
 </p>
 
-Class 1 (အံ)
-
-<p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
-</p>
-
-Class 2 (အား)  
-
-<p align="center">
-<img src="" alt="Class-1" width="400x" height="256x" />
-</p>
-
-Class 3 (အက်)
+Class 12 (အက်)
 
 <p align="center">
 <img src="" alt="Class-1" width="400x" height="256x" />
