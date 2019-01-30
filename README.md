@@ -12,12 +12,47 @@ ot-data/ (spectrograms of Myanmar consonant and vowel sounds for open-test)
 # Classes of Myanmar Consonant
 
 | Class ID  | Consonant |
-| --------- |-----------|
-| 1 | က    |
-| 2 | ခ     |
+| --------- |---------- | 
+| 1  | က   |
+| 2  | ခ    |
+| 3  | ဂ၊ ဃ |
+| 4  | င    |
+| 5  | စ    |
+| 6  | ဆ   |
+| 7  | ဇ၊ ဈ |
+| 8  | ည၊ ဉ |
+| 9  | | |
+| 10 | | |
+| 11 | | |
+| 12 | | |
+| 13 | | |
+| 14 | | |
+| 15 | | |
+| 16 | | |
+| 17 | | |
+| 18 | | |
+| 19 | | |
+| 20 | | |
+| 21 | | |
+| 22 | | |
+
 
 # Classes of Myanmar Vowel
 
+| Class ID  | Vowel |
+| --------- |---------- |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
 
 
 # Acknowledgement
