@@ -53,6 +53,15 @@ ot-data/ (spectrograms of Myanmar consonant and vowel sounds for open-test)
 | 11 | အား|
 | 12 | အက်|
 
+# Example Spectrograms of Myanmar Consonants
+
+Class 1 (က)
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/consonant/1/1_1/2018-11-12-13:44:08.16khz.mono.jpg" alt="Class-1" width="800x" height="513x" />
+</p>
+
+
 # Acknowledgement
 
 Following students and teachers of University of Computer Studies Banmaw contributed for Myanmar consonant and vowel sound recording !  
