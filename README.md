@@ -58,7 +58,7 @@ ot-data/ (spectrograms of Myanmar consonant and vowel sounds for open-test)
 Class 1 (က)
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/consonant/1/1_1/2018-11-12-13:44:08.16khz.mono.jpg" alt="Class-1" width="800x" height="513x" />
+<img src="https://github.com/ye-kyaw-thu/Spectrograms-of-Myanmar-Speech/blob/master/consonant/1/1_1/2018-11-12-13:44:08.16khz.mono.jpg" alt="Class-1" width="400x" height="256x" />
 </p>
 
 
