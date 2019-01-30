@@ -11,7 +11,13 @@ ot-data/ (spectrograms of Myanmar consonant and vowel sounds for open-test)
 
 # Classes of Myanmar Consonant
 
+| Class ID  | Consonant |
+| --------- |-----------|
+| 1 | က    |
+| 2 | ခ     |
+
 # Classes of Myanmar Vowel
+
 
 
 # Acknowledgement
