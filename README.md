@@ -40,19 +40,18 @@ ot-data/ (spectrograms of Myanmar consonant and vowel sounds for open-test)
 
 | Class ID  | Vowel |
 | --------- |---------- |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-
+| 1 | အာ |
+| 2 | အိ |
+| 3 | အီ |
+| 4 | အု |
+| 5 | အူ |
+| 6 | အေ|
+| 7 | အဲ |
+| 8 | အော့|
+| 9 | အော်|
+| 10 | အံ |
+| 11 | အား|
+| 12 | အက်|
 
 # Acknowledgement
 
