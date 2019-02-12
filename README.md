@@ -179,6 +179,8 @@ Following students and teachers of University of Computer Studies Banmaw contrib
 
 (Names are ordered by my recording notebook)  
 
+I also would like to say "Thank you" to Sayarma Dr. May Phyo Oo for her kind invitation to visit University of Computer Studies (Banmaw).  
+
 # Citing
 
 If you use spectrograms of Myanmar consonants and vowels for research, please cite this paper as follows:
