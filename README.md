@@ -169,7 +169,7 @@ Class 12 (အက်)
 
 # Acknowledgement
 
-Following students and teachers of University of Computer Studies Banmaw contributed for Myanmar consonant and vowel sound recording !  
+Following students and teachers of [University of Computer Studies Banmaw](http://ucsbanmaw.moe.edu.mm/) contributed for Myanmar consonant and vowel sound recording !  
 
 မသဇင်ကို၊ မဖော်မြန်းသင့်နူး၊ မယဉ်မာမြင့်၊ မထက်ထက်အောင်၊ မချောစု၊  
 မတင်မိုးရွှေ၊ မလှစန္ဒာအောင်၊ မပန်းအိဖြူ၊ မသရဖီထွန်း၊ မစုမြတ်ငြိမ်း၊  
