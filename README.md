@@ -1,12 +1,12 @@
 # Spectrograms of Myanmar Speech
 
-Spectrograms of Myanmar consonant and vowel audios that I recorded at University of Computer Studies Banmaw (UC Banmaw), Banmaw, Kachin State, Myanmar, November 2018. For the 22 consonants and 12 vowels, I prepared audio files by recording 45 female and 37 male speakers, including native speakers as well as other national ethnic races such as Kachin, Shan, and Rakhine, using a MacBook Air built-in microphone. The spectrograms of the audio files were extracted using the Sound eXchange (SoX, Swiss
+[Spectrograms](https://en.wikipedia.org/wiki/Spectrogram) of Myanmar consonant and vowel audios that I recorded at University of Computer Studies Banmaw (UC Banmaw), Banmaw, Kachin State, Myanmar, November 2018. For the 22 consonants and 12 vowels, I prepared audio files by recording 45 female and 37 male speakers, including native speakers as well as other national ethnic races such as Kachin, Shan, and Rakhine, using a MacBook Air built-in microphone. The spectrograms of the audio files were extracted using the Sound eXchange (SoX, Swiss
 Army knife of sound processing programs) command line utility. I used these spectrograms for the Transfer Learning experiments.  
 
 Please note recording was done inside a hall and containing some noises such as mouse click sound. 
 
 # မြန်မာလို အကျဉ်းချုံးရှင်းပြရရင်  
-မြန်မာ ဗျည်း၊ သရ အသံတွေကို spectrogram ဂရဖ်အဖြစ်ပြောင်းပြီးတော့ Transfer Learning နဲ့ speech classification experiment အတွက် သုံးခဲ့တဲ့ ဖိုင်တွေပါ။  
+မြန်မာ ဗျည်း၊ သရ အသံတွေကို [spectrogram](https://en.wikipedia.org/wiki/Spectrogram) ဂရဖ်အဖြစ်ပြောင်းပြီးတော့ Transfer Learning နဲ့ speech classification experiment အတွက် သုံးခဲ့တဲ့ ဖိုင်တွေပါ။  
 မဥဥခင် (Faculty of Advanced Science and Technology, Kumamoto University, Japan) ရဲ့ မဟာဘွဲ့သုတေသနရဲ့ တစိတ်တပိုင်းဖြစ်ပါတယ်။  
 
 # Files and Folders   
