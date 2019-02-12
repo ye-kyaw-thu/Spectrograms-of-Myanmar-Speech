@@ -10,6 +10,7 @@ Please note recording was done inside a hall and containing some noises such as 
 consonant/ (spectrograms of 22 classes of Myanmar consonant sounds)  
 vowel/ (spectrograms of 12 classes of Myanmar vowel sounds)  
 ot-data/ (spectrograms of Myanmar consonant and vowel sounds for open-test)  
+wave/ (Original 16Khz mono wave files)   
 
 # Classes of Myanmar Consonant
 
