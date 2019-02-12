@@ -5,6 +5,10 @@ Army knife of sound processing programs) command line utility. I used these spec
 
 Please note recording was done inside a hall and containing some noises such as mouse click sound. 
 
+# မြန်မာလို အကျဉ်းချုံးရှင်းပြရရင်  
+မြန်မာ ဗျည်း၊ သရ အသံတွေကို spectrogram ဂရဖ်အဖြစ်ပြောင်းပြီးတော့ Transfer Learning နဲ့ speech classification experiment အတွက် သုံးခဲ့တဲ့ ဖိုင်တွေပါ။  
+မဥဥခင် (Faculty of Advanced Science and Technology, Kumamoto University, Japan) ရဲ့ မဟာဘွဲ့သုတေသနရဲ့ တစိတ်တပိုင်းဖြစ်ပါတယ်။  
+
 # Files and Folders   
 
 consonant/ (spectrograms of 22 classes of Myanmar consonant sounds, 4,395 jpg files)  
