@@ -12,10 +12,10 @@ Please note recording was done inside a hall and containing some noises such as 
 
 # Files and Folders   
 
-consonant/ (spectrograms of 22 classes of Myanmar consonant sounds, 4,395 jpg files) 
-vowel/ (spectrograms of 12 classes of Myanmar vowel sounds, 1,345 jpg files) 
-ot-data/ (spectrograms of Myanmar consonant and vowel sounds for open-test) 
-ot-data/consonant/ (440 jpg files) 
+consonant/ (spectrograms of 22 classes of Myanmar consonant sounds, 4,395 jpg files)
+vowel/ (spectrograms of 12 classes of Myanmar vowel sounds, 1,345 jpg files)
+ot-data/ (spectrograms of Myanmar consonant and vowel sounds for open-test)
+ot-data/consonant/ (440 jpg files)
 ot-data/vowel/ (120 jpg files) 
 
 wave/ (main folder of original 16Khz mono wave files)   
