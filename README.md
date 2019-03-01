@@ -199,5 +199,5 @@ I also would like to say "Thank you" to Sayarma Dr. May Phyo Oo for her kind inv
 If you use spectrograms or wave files of Myanmar consonants and vowels for research, please cite this paper as follows:
 
 Ou Ou Khin, Ye Kyaw Thu, Tadashi Sakata, Yoshinori Sagisaka, Yuichi Ueda, "Myanmar Speech Classification
-Using Transfer Learning for Image Classification", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar, pp.132-140 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/ICCA2019_paper_53_CameraReady.pdf)]
+Using Transfer Learning for Image Classification", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar, pp.132-140 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)]
 
